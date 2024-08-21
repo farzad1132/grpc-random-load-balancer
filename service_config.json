@@ -1,0 +1,3 @@
+{
+    "loadBalancingConfig": [ { "simple_balancer": {} } ]
+}
