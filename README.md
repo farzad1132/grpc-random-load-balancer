@@ -4,7 +4,7 @@ This repository contains the code for a custom gRPC load balancer that randomly 
 
 
 # Installation
-- You will need Go 1.21 or higher
+- You will need Go 1.22.1 or higher
 - In the project directory, run `go mod tidy` to install all the required packages automatically.
 
 
